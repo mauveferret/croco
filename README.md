@@ -13,7 +13,6 @@
 ![croco](https://github.com/mauveferret/croco/blob/main/pics/Croco_model.png?raw=true)
 
 
-
 ## Подвижный двухкоординатный держатель мишени
 
 На влёте пучка в камеру взаимодействия (3) расположена компьютерно-управляемая система отклонения пучка, схожая по конструкции с используемой в электронно-лучевых трубках. Данная система позволяет перемещать пучок по поверхности мишени с шагом около 0.5 мм, настраиваясь на наилучший сигнал отражённых ионов по сигналу на детектор энергоанализатора. Мишень закреплена на вращающемся прогреваемом до температуры 400 ℃  держателе. Мишенный держатель изолирован от остальной части установки, что позволяет осуществлять измерения на него тока пучка, что также может быть полезно при подстройке его положения и оптимизации сигнала отражённых ионов. 
@@ -38,11 +37,11 @@
 
 # Фото установки:
 
-![photo1](https://github.com/mauveferret/croco/blob/main/pics/photo1.png?raw=true)
+![photo1](https://github.com/mauveferret/croco/blob/main/pics/photo1.jpg?raw=true)
 
-![photo2](https://github.com/mauveferret/croco/blob/main/pics/photo2.png?raw=true)
+![photo2](https://github.com/mauveferret/croco/blob/main/pics/photo2.jpg?raw=true)
 
-![photo3](https://github.com/mauveferret/croco/blob/main/pics/photo3.png?raw=true)
+![photo3](https://github.com/mauveferret/croco/blob/main/pics/photo3.jpg?raw=true)
 
 
 
