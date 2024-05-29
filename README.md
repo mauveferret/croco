@@ -21,7 +21,7 @@
 
 ![sample1](https://github.com/mauveferret/croco/blob/main/pics/sample_holder.png?raw=true)
 
-![sample2](https://github.com/mauveferret/croco/blob/main/pics/sample_holder2.png?raw=true)
+![sample3](https://github.com/mauveferret/croco/blob/main/pics/sample_holder3.jpg?raw=true)
 
 ***На наш подвижный двухкоординатный держатель можно закрепить мишень почти любой формы !!!***
 
